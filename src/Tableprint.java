@@ -12,7 +12,6 @@ public class Tableprint {
             else{
                 System.out.format("%d     " + "%d     " + "%d\n", i, (int)Math.pow(i,2), (int)Math.pow(i,3));
             }
-
         }
     }
 }
