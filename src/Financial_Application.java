@@ -24,9 +24,6 @@ public class Financial_Application {
         total_amount = savings + monthly_income;
         System.out.println("The value in the account after the sixth month is " + savings);
 
-
-
-
     }
 
 }
