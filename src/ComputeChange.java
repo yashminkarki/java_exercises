@@ -4,10 +4,10 @@ public class ComputeChange {
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter an amount in double, for example 1.87");
-        double amount = input.nextDouble();
+        System.out.print("Enter an amount as integer, for example 1877");
+        int amount = input.nextInt();
 
-        int remainingAmount = (int)(amount * 100);
+        int remainingAmount = amount;
         int numberOfDollars = remainingAmount / 100;
         remainingAmount = remainingAmount % 100;
 

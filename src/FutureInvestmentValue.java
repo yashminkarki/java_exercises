@@ -13,5 +13,4 @@ public class FutureInvestmentValue{
         double future_investmentVal = investment_amt * Math.pow(1+interest_rate, years*12);
         System.out.printf("Accumulated value is $%.2f",future_investmentVal);
     }
-
 }
