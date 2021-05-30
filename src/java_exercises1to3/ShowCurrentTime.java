@@ -1,3 +1,4 @@
+package java_exercises1to3;
 public class ShowCurrentTime {
     public static void main(String[] args)
     {

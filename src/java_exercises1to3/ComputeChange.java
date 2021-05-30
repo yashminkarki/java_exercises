@@ -1,3 +1,4 @@
+package java_exercises1to3;
 import java.util.Scanner;
 
 public class ComputeChange {

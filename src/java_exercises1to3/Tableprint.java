@@ -1,3 +1,4 @@
+package java_exercises1to3;
 import java.lang.Math;
 public class Tableprint {
     public static void main(String[] args)
